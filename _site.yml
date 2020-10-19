@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/kahina/kahina-blog
-base_url:kahina.github.io/kahina-blog/
+      href: https://github.com/chihkahina/kahina-kahina-blog
+base_url: chihkahina.github.io/kahina-kahina-blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
