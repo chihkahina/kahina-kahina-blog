@@ -1,7 +1,7 @@
 ---
 title: "About Me"
-author:
-  - name: "___" 
+author: CHIHA kahina
+  - name: "CHIHA Kahina" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -9,3 +9,5 @@ output: distill::distill_article
 This section must bu include a short presentation of you.
 
 - first name/surname, teacher’s name, class name and academic year
+My name is CHIHA kahina, Nicolas DEVILEZ my english teacher, 
+I am a student in complementary block in biology of organisms and ecologies UMONS.
